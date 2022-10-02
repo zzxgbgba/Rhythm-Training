@@ -1,5 +1,4 @@
-# Rhythm-Training
-change lanuage guide
+# Rhythm Training Change Lanuage Guide
 
 ![image](https://github.com/zzxgbgba/Rhythm-Training/blob/main/pic/a1.png)
 ![image](https://github.com/zzxgbgba/Rhythm-Training/blob/main/pic/a2.png)
